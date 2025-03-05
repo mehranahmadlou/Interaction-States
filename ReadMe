@@ -1,4 +1,4 @@
 These files are MATLAB codes and the data required to plot the main figures (Fig. 1-6) in the Windows operation system.
 It has been tested on MATLAB versions 2021-2023.
 The expected running time for each file is a few seconds.
-The codes to run the experiments using Bonsai, MATLAB and Python are provided as well.
+The codes to run the experiments and analyze the data using Bonsai, MATLAB and Python are provided as well.
